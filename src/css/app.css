@@ -1,0 +1,11 @@
+li {
+  text-decoration: none;
+}
+
+.MuiDrawer-paper {
+  justify-content: center;
+}
+
+.MuiListItemText-root {
+  flex: none;
+}
